@@ -13,6 +13,16 @@ This repository contains small AI projects built using Python and OpenAI API.
 📂 Location: `Portfolio/chatbot_context_memory`
 
 ---
+### 2. Content Moderation System
+
+* Uses OpenAI moderation API
+* Detects unsafe or flagged content
+* Accepts dynamic user input
+* Displays flagged categories
+
+📂 Location: `Portfolio/moderation_api`
+
+
 
 More projects coming:
 
